@@ -1,18 +1,18 @@
 let mySprite = sprites.create(img`
-    . . . . . . . c c . . . . . . . 
-    . . . . c c c 6 5 c 6 6 . . . . 
-    . . . . c 6 c 5 5 c 7 6 . . . . 
-    . . . 6 c c 7 5 5 7 c 6 6 . . . 
-    . . c c 7 7 7 7 7 5 7 7 c 6 . . 
-    . 6 6 6 c 6 7 7 7 7 6 c c 6 6 . 
-    c 7 7 7 6 c 7 c 6 7 6 7 7 7 7 6 
-    c c c 6 6 6 c 6 6 6 6 7 7 6 6 6 
-    . c c 7 6 6 6 6 6 7 7 7 7 c 6 . 
-    . c 7 7 6 6 7 6 6 7 7 6 7 7 c . 
-    . c c c c 7 7 6 f 7 7 c c c c . 
-    . . . . c 7 c f f c 7 c . . . . 
-    . . . . . 6 f e e e c . . . . . 
-    . . . . . e e e e e e . . . . . 
-    . . . . e e . e e . e e . . . . 
-    . . . . . . . e e . . . . . . . 
+    f f f f f f f f f f f f f f f f 
+    b b b b b b b b b b b b b b b b 
+    6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 
+    7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
+    9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
+    8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 
+    a a a a a a a a a a a a a a a a 
+    d d d d d d d d d d d d d d d d 
+    c c c c c c c c c c c c c c c c 
+    4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 
+    5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+    3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+    2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+    1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+    e e e e e e e e e e e e e e e e 
+    . . . . . . . . . . . . . . . . 
     `, SpriteKind.Player)
