@@ -1,5 +1,5 @@
 let mySprite = sprites.create(assets.image`koala`, SpriteKind.Player)
 tiles.setTilemap(tilemap`mainTileMap`)
 controller.moveSprite(mySprite)
-scene.centerCameraAt(18, 110)
+scene.centerCameraAt(80, 60)
 scene.cameraFollowSprite(mySprite)
